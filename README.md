@@ -1,1 +1,2 @@
-# task1.py
+# def task1.py
+print('Hello World!')
